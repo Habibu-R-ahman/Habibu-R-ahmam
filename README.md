@@ -1,6 +1,6 @@
 ## Hi there, I'm Habib from :bangladesh:
 
-<img align="left" alt="Habib's GitHub Stats" src="https://github-readme-stats-delta-three-47.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false$theme=vue" />
+<img align="left" alt="Habib's GitHub Stats" src="https://github-readme-stats-delta-three-47.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false&theme=vue" />
 
 
 [![Top Langs](https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman)](https://github.com/Habibu-R-ahman)
