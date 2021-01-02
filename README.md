@@ -28,6 +28,7 @@
 <img align="left" alt="Zoom" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/My_Python_Learning/main/5e8ce318664eae0004085461.png" />
 <img align="left" alt="Gimp" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/My_Python_Learning/main/1024px-The_GIMP_icon_-_gnome.svg.png" />
 <img align="left" alt="Kdenlive" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/My_Python_Learning/main/1280px-Kdenlive-logo.svg.png" />
+<img align="left" alt="Kdenlive" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/My_Python_Learning/main/Transmission_icon.png" />
 
 <br />
 <br />
