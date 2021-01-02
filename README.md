@@ -13,7 +13,7 @@
 - I’m looking to collaborate with other content creators :handshake:
 - 2021 Goals: Contribute more to REAL world! :pray:
 - Fun fact: I love to visit unknown places! :earth_asia:
-- Relation Status : In a relationship with Linux! :penguin:
+- Relationship Status : In a relationship with Linux! :penguin:
 
 <br />
 
