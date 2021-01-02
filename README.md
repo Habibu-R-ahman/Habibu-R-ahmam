@@ -108,7 +108,7 @@
 [li]: https://github.com/Habibu-R-ahman
 
 <p align="center">
-  <h2 align="center">Visitor count : </h2>
+  <h2 align="center">Visitor count : </h2> <br>
   <img align="center" src="https://profile-counter.glitch.me/Habibu-R-ahman/count.svg" />
 </p>
 
