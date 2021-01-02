@@ -2,6 +2,7 @@
 ---
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habibu-R-ahman)](https://github.com/Habibu-R-ahman)
 <br />
 
 ## I'm a CS Student, Programmar, Day Dreamer, and Teacher!!
