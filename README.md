@@ -107,6 +107,7 @@
 [telegram]: https://t.me/b1ack_c0de
 [li]: https://github.com/Habibu-R-ahman
 
-<p align="center">Visitor count<br>
+<p align="center">
   <img src="https://profile-counter.glitch.me/Habibu-R-ahman/count.svg" />
+  <br>Visitor count
 </p>
