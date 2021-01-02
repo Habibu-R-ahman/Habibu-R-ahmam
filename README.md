@@ -4,8 +4,9 @@
 
 [<img align="right" alt="Habib" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=9" />][li]
 
-<!-- 
-[![Top Langs](https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue)](https://github.com/Habibu-R-ahman) -->
+
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habibu-R-ahman&theme=vue)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -20,7 +21,6 @@
 - 2021 Goals: Contribute more to REAL world! :pray:
 - Fun fact: I love to visit unknown places! :earth_asia:
 - Relationship Status : In a relationship with Linux! :penguin:
-
 <br />
 
 ## Tools I'm used to:
