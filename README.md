@@ -2,7 +2,7 @@
 
 <img align="left" alt="Habib's GitHub Stats" src="https://github-readme-stats-delta-three-47.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false&theme=vue" />
 
-[<img align="right" alt="Habib" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue" />][https://github.com/Habibu-R-ahman]
+[<img align="right" alt="Habib" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue" />][li]
 
 <!-- 
 [![Top Langs](https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue)](https://github.com/Habibu-R-ahman) -->
@@ -109,6 +109,7 @@
 [gmail]: mailto:anuhimel@gmail.com
 [ask]: https://ask.fm/anuhimel
 [telegram]: https://t.me/b1ack_c0de
+[li]: https://github.com/Habibu-R-ahman
 
 <p align="center"> 
   Visitor count<br>
