@@ -1,12 +1,12 @@
 ## Hi there, I'm Habib from :bangladesh:
----
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false" />
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habibu-R-ahman)](https://github.com/Habibu-R-ahman)
 <br />
 
 ## I'm a CS Student, Programmar, Day Dreamer, and Teacher!!
----
+
 - I'm currently focusing on Python :snake:
 - I will propose RUST asap! :stuck_out_tongue_closed_eyes:
 - I’m currently learning everything! :sweat_smile:
@@ -18,7 +18,7 @@
 <br />
 
 ## Tools I'm used to:
----
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -30,9 +30,10 @@
 <img align="left" alt="Kdenlive" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/My_Python_Learning/main/1280px-Kdenlive-logo.svg.png" />
 
 <br />
+<br />
 
 ## Languages I can speak: 
----
+
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/My_Python_Learning/main/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/My_Python_Learning/main/267_Python-512.webp" />
 
@@ -49,9 +50,10 @@
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/My_Python_Learning/main/icons8-bash-100.png" />
 
 <br />
+<br />
 
 ## Connect with me:
----
+
 [<img align="left" alt="Habib | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Habib | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Habib | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/askfm.svg" />][ask]
