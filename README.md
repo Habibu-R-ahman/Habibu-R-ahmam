@@ -63,7 +63,7 @@
 <br />
 
 [facebook]: https://fb.com/00habib00
-[gmail]: anuhimel@gmail.com
+[gmail]: mailto:anuhimel@gmail.com
 [ask]: https://ask.fm/anuhimel
 
 <p align="center"> 
