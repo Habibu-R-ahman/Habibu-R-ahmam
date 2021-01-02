@@ -2,7 +2,6 @@
 
 <img align="left" alt="Habib's GitHub Stats" src="https://github-readme-stats-delta-three-47.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false" />
 
-![Visitor Count](https://profile-counter.glitch.me/Habibu-R-ahman/count.svg)
 
 [![Top Langs](https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman)](https://github.com/Habibu-R-ahman)
 <br />
@@ -66,3 +65,8 @@
 [facebook]: https://fb.com/00habib00
 [gmail]: anuhimel@gmail.com
 [ask]: https://ask.fm/anuhimel
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Habibu-R-ahman/count.svg" />
+</p>
