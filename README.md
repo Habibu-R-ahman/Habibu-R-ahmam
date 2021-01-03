@@ -10,6 +10,7 @@
 
 ## I'm a CS Student, Programmar, Day Dreamer, and Teacher!!
 
+- I feel hungry about Programming but I only eat Beautiful code :grin:
 - I'm currently focusing on Python :snake:
 - I will propose RUST asap! :stuck_out_tongue_closed_eyes:
 - I’m currently learning everything! :sweat_smile:
