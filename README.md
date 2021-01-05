@@ -18,8 +18,12 @@
 - Fun fact: I love to visit unknown places! :earth_asia:
 - Relationship Status : In a relationship with Linux! :penguin:
 
-[<img align="center" alt="Habib" width="310px" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" />][li]
+<p align="center">
+[<img alt="Habib" width="310px" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" />][li]
 
+[![Habib StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10064531)](https://stackoverflow.com/users/10064531/himel)
+
+</p>
 <br />
 
 ## Tools I'm used to:
