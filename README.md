@@ -3,7 +3,7 @@
 <img align="left" alt="Habib's GitHub Stats" src="https://github-readme-stats-delta-three-47.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false&theme=vue" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habibu-R-ahman&theme=vue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habibu-R-ahman&theme=vue&border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br />
 
