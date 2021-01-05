@@ -1,14 +1,15 @@
 ## Hi there, I'm Habib from :bangladesh:
 <p>
 <img align="left" alt="Habib's GitHub Stats" src="https://github-readme-stats-delta-three-47.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false&theme=vue" />
- </p>
-
-[<img align="right" alt="Habib" width="37%" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" />][li]
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habibu-R-ahman&theme=vue)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br />
 
+<tr>
+<td>
+ 
 ## I'm a CS Student, Programmar, Day Dreamer, and Teacher!!
 
 - I feel hungry about Programming but I only eat Beautiful code :sunglasses:
@@ -20,6 +21,14 @@
 - Fun fact: I love to visit unknown places! :earth_asia:
 - Relationship Status : In a relationship with Linux! :penguin:
 <br />
+</td>
+
+<td>
+ 
+[<img align="right" alt="Habib" width="310px" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" />][li]
+
+</td>
+</tr>
 
 ## Tools I'm used to:
 
@@ -49,8 +58,10 @@
 
 <img align="left" alt="Transmission" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/Habibu-R-ahman/master/src/Transmission.png" />
 
+
 <br />
 <br />
+
 
 ## Languages I can speak!: 
 
@@ -76,6 +87,7 @@
 <br />
 <br />
 
+
 ## Operating System I Love: 
 
 <img align="left" alt="mariadb" width="26px" src="https://raw.githubusercontent.com/Habibu-R-ahman/Habibu-R-ahman/master/src/Debian.png" />
@@ -93,6 +105,7 @@
 
 <br />
 <br />
+
 
 ## Connect with me:
 
