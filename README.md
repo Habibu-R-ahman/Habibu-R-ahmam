@@ -9,8 +9,6 @@
 
 ## I'm a CS Student, Programmar, Day Dreamer, and Teacher!!
 
-<img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=10064531" />
-
 - I feel hungry about Programming but I only eat Beautiful code :sunglasses: </li>
 - I'm currently focusing on Python :snake:
 - I will propose RUST asap! :stuck_out_tongue_closed_eyes:
