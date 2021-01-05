@@ -8,7 +8,12 @@
 <br />
 
 ## I'm a CS Student, Programmar, Day Dreamer, and Teacher!!
+<p align="left">
   
+  [![Habib StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10064531)](https://stackoverflow.com/users/10064531/himel)
+
+</p>
+
 - I feel hungry about Programming but I only eat Beautiful code :sunglasses: </li>
 - I'm currently focusing on Python :snake:
 - I will propose RUST asap! :stuck_out_tongue_closed_eyes:
