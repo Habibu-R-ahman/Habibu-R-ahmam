@@ -11,14 +11,14 @@
 <tr>
 <td>
   
-- #### I feel hungry about Programming but I only eat Beautiful code :sunglasses:
-- #### I'm currently focusing on Python :snake:
-- #### I will propose RUST asap! :stuck_out_tongue_closed_eyes:
-- #### I’m currently learning everything! :sweat_smile:
-- #### I’m looking to collaborate with other content creators :handshake:
-- #### 2021 Goals: Contribute more to REAL world! :pray:
-- #### Fun fact: I love to visit unknown places! :earth_asia:
-- #### Relationship Status : In a relationship with Linux! :penguin:
+- I feel hungry about Programming but I only eat Beautiful code :sunglasses: </li>
+- I'm currently focusing on Python :snake:
+- I will propose RUST asap! :stuck_out_tongue_closed_eyes:
+- I’m currently learning everything! :sweat_smile:
+- I’m looking to collaborate with other content creators :handshake:
+- 2021 Goals: Contribute more to REAL world! :pray:
+- Fun fact: I love to visit unknown places! :earth_asia:
+- Relationship Status : In a relationship with Linux! :penguin:
   
 </td>
 <td>
