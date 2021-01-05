@@ -119,14 +119,3 @@
   <img src="https://profile-counter.glitch.me/Habibu-R-ahman/count.svg" />
   
 </p>
-
-
-<div style="display:inline-block;vertical-align:top;">
-    <img src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" alt="img"/>
-</div>
-
-<div style="display:inline-block;">
-    <div>Email</div>
-    <div>Gender</div>
-    <div>Phoner</div>
-</div>
