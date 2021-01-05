@@ -7,8 +7,6 @@
 
 <br />
 
-<tr>
-<td>
  
 ## I'm a CS Student, Programmar, Day Dreamer, and Teacher!!
 
@@ -21,14 +19,10 @@
 - Fun fact: I love to visit unknown places! :earth_asia:
 - Relationship Status : In a relationship with Linux! :penguin:
 <br />
-</td>
 
-<td>
  
 [<img align="right" alt="Habib" width="310px" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" />][li]
 
-</td>
-</tr>
 
 ## Tools I'm used to:
 
