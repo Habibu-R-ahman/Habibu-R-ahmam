@@ -8,8 +8,6 @@
 <br />
 
 ## I'm a CS Student, Programmar, Day Dreamer, and Teacher!!
-<tr>
-<td>
   
 - I feel hungry about Programming but I only eat Beautiful code :sunglasses: </li>
 - I'm currently focusing on Python :snake:
@@ -19,13 +17,10 @@
 - 2021 Goals: Contribute more to REAL world! :pray:
 - Fun fact: I love to visit unknown places! :earth_asia:
 - Relationship Status : In a relationship with Linux! :penguin:
-  
-</td>
-<td>
-  
+
 [<img align="right" alt="Habib" width="310px" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" />][li]
-</td>
-</tr>
+
+<br / >
 
 ## Tools I'm used to:
 
