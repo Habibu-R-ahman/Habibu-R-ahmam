@@ -123,3 +123,5 @@
   <img src="https://profile-counter.glitch.me/Habibu-R-ahman/count.svg" />
   
 </p>
+
+[![3xp101t71's tryhackme stats](https://raw.githubusercontent.com/3xp101t71/3xp101t71/master/assets/thm_propic.png)][tryhackme]
