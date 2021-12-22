@@ -1,7 +1,7 @@
 ## Hi there, I'm Habib from :bangladesh:
-<p>
+<!-- <p>
 <img align="left" alt="Habib's GitHub Stats" src="https://github-readme-stats-delta-three-47.vercel.app/api?username=Habibu-R-ahman&show_icons=true&hide_border=false&theme=vue" />
-</p>
+</p> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habibu-R-ahman&theme=vue&border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -18,12 +18,12 @@
 - Fun fact: I love to visit unknown places! :earth_asia:
 - Relationship Status : In a relationship with Linux! :penguin:
 
-<p >
-<img align="left" alt="Habib" width="310px" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" />
+<!-- <p >
+ <img align="left" alt="Habib" width="310px" src="https://github-readme-stats-delta-three-47.vercel.app/api/top-langs/?username=Habibu-R-ahman&theme=vue&langs_count=7" /> 
 
 [![Habib StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10064531)](https://stackoverflow.com/users/10064531/himel)
 
-</p>
+</p> -->
 <br />
 
 ## Tools I'm used to:
@@ -124,6 +124,3 @@
   
 </p>
 
-[![3xp101t71's tryhackme stats](https://raw.githubusercontent.com/3xp101t71/3xp101t71/master/assets/thm_propic.png)][tryhackme]
-
-[tryhackme]: https://tryhackme.com/p/3xp101t71
